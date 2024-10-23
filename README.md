@@ -36,13 +36,12 @@ src="https://raw.githubusercontent.com/amnandan9/DonorHubv1/master/DonorHub%20(7
 ![](https://img.shields.io/github/issues/amnandan9/DonorHubv1.svg)
 
 ## Contribution
-If you would like to contribute to the DonorHub project, you are always welcome! Currently, there may not be code available in the `master` branch. Please switch to a specific version and make your changes there. For example, the latest development version is: [DonorHub Development Branch](https://github.com/amnandan9/DonorHub/tree/development).
-You must create a pull request to that specific branch to have your changes merged.
+If you would like to contribute to the DonorHub project, you are always welcome! Currently, there may not be code available in the `master` branch. Please switch to a specific version and make your changes there. For example, the latest development version is: [DonorHub Development Branch](https://github.com/amnandan9/DonorHubv1/tree/development). You must create a pull request to that specific branch to have your changes merged.
 
 ## Support
 If you would like to support this project for better versions and enhancements, you can contribute here.
 
-I appreciate your interest in contributing!
-Regards, 
+I appreciate your interest in contributing!<br>
+Regards, <br>
 *Nandan*
 
