@@ -40,7 +40,7 @@ If you would like to contribute to the DonorHub project, you are always welcome!
 You must create a pull request to that specific branch to have your changes merged.
 
 ## Support
-If you would like to support this project for better versions and enhancements, you can contribute [here](https://buymeacoffee.com/yourusername).
+If you would like to support this project for better versions and enhancements, you can contribute here.
 
 I appreciate your interest in contributing!
 Regards, 
