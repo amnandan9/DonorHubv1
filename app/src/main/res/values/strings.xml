@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">DonorHub</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="achiev">Milestone</string>
+
+    <!-- Strings related to login -->
+    <string name="signup">Register</string>
+    <string name="prompt_email">Email</string>
+    <string name="register">Create an account</string>
+    <string name="forgotpass">Reset Password</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_sign_in_short">Log In</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="reset">Reset</string>
+    <string name="displayName">Full Name</string>
+    <string name="mobile">Phone Number</string>
+    <string name="userAddress">Address</string>
+    <string name="nearH">Hospital Nearby</string>
+    <string name="fndBlood">Track Blood Donor</string>
+    <string name="lgout">Log Out</string>
+    <string name="devinfo">About Us</string>
+    <string name="bloodinfo">Blood Details</string>
+    <string name="BloodGroup">Blood Group</string>
+    <string name="Division">Select Division</string>
+    <string name="Post">Publish</string>
+
+
+    <string-array name="division_list">
+        <item>Mysuru </item>
+        <item>Hunsur </item>
+        <item>Nanjangud </item>
+        <item>K.R.Nagar </item>
+        <item>T.Narasipura </item>
+        <item>Srirangapatna</item>
+        <item>Periyapatna </item>
+        <item>non-divisional</item>
+
+    </string-array>
+
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </array>
+
+    <array name="Blood_Group">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </array>
+
+    <string name="eligibility_">Criteria for Eligibility</string>
+    <string name="male_">If you are male, you must:\n Be in overall good health and feeling fit on the day of donation.\nBe at least 17 years of age in most jurisdictions.\nMeet a minimum height requirement of 5 feet 5 inches.\nWeigh no less than 150 pounds.</string>
+    <string name="female_">If you are female, you must:\nBe in good health and feeling well on the day of donation.\nBe at least 17 years of age in most jurisdictions.\nMeet a minimum height requirement of 5 feet 5 inches.\nWeigh no less than 130 pounds.\n</string>
+    <string name="info_">"Donating blood is more than just an act of kindness; it's a lifeline that can save lives. Each drop of blood you give has the power to be a beacon of hope for those facing emergencies and those requiring ongoing medical treatments. Many individuals owe their very existence to the selfless generosity of blood donors. Your decision to donate can create ripples of gratitude and life that touch countless hearts."\n\n"Why do we need your blood?\n\n Because every donation is a vital contribution to our community's health and well-being. Your blood can mean the difference between life and death for someone in need. Whether it's for a patient undergoing surgery, a child battling illness, or an accident victim, your willingness to give can provide hope and healing. We need you to step forward and share this precious gift, because together, we can create a lifeline for those who rely on the compassion and generosity of donors like you.\n\nEvery day, we require over 6,000 blood donations to provide essential treatment for patients in need. To meet this demand, we need around 200,000 new donors each year, as some of our valued donors are unable to continue giving. Fortunately, most individuals aged 17 to 65 are eligible to donate. However, nearly half of our current donors are over 45, highlighting a critical need for younger individuals to step forward. By donating blood, you can be a part of something greater—a life-saving mission that ensures no one has to face their medical battles alone. Your participation today could save a life tomorrow.</string>
+    <string name="aboutus">At DonorHub, We believe that giving blood is not just an act of kindness but a vital contribution to saving lives. \n\n Our vision goes beyond just blood donation; we aspire to facilitate immediate connections between donors, recipients, ambulances, hospitals, and patients requiring urgent blood supplies. \n\nFurthermore, we aim to introduce organ donation services, ensuring that those in need receive timely assistance. Although our project draws inspiration from various sources, our commitment to promoting goodwill and altruism remains genuine and steadfast.\n\n
+        Regards,\n
+        Nandan A M\n
+<i>DonorHub Team</i>
+    </string>
+
+
+</resources>
