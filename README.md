@@ -22,7 +22,7 @@ DonorHub offers seamless communication between blood donors and recipients throu
 - **Java**: Version 11
 
 ## How to Install
-You can install this application to test it on your Android smartphone. To download the signed application, go to your Chrome browser and copy-paste the download link:
+You can install this application to test it on your Android smartphone. The download link will be updated shortly.
 
 # Preview: 
 <img src="https://raw.githubusercontent.com/amnandan9/DonorHubv1/master/DonorHub%20(1).jpg" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/amnandan9/DonorHubv1/master/DonorHub%20(2).jpg" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/amnandan9/DonorHubv1/master/DonorHub%20(3).jpg" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/amnandan9/DonorHubv1/master/DonorHub%20(4).jpg" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/amnandan9/DonorHubv1/master/DonorHub%20(5).jpg" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/amnandan9/DonorHubv1/master/DonorHub%20(6).jpg" alt="Splash Screen" width="100" height="200" /> <img 
