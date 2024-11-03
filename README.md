@@ -23,7 +23,7 @@ DonorHub offers seamless communication between blood donors and recipients throu
 
 ## How to Install
 You can install this application to test it on your Android smartphone. The download link will be updated shortly.
-
+[Download]([https://github.com/amnandan9/Dimensizer-/releases/download/Dimensizer/Dimensizer.1.apk](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fgithub.com%2Famnandan9%2FDonorHubv1%2Fraw%2Frefs%2Fheads%2Fmaster%2FDonorHubv1.apk&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-YzFmNGMzMjgtYWMxMy00YTlhLTlkZmUtY2UxNzJmZTAzYzQxXzAxMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3Bo01x8%2BThTp2EcW3jnakAEA%3D%3D)) 
 # Preview: 
 <img src="https://raw.githubusercontent.com/amnandan9/DonorHubv1/master/DonorHub%20(1).jpg" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/amnandan9/DonorHubv1/master/DonorHub%20(2).jpg" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/amnandan9/DonorHubv1/master/DonorHub%20(3).jpg" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/amnandan9/DonorHubv1/master/DonorHub%20(4).jpg" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/amnandan9/DonorHubv1/master/DonorHub%20(5).jpg" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/amnandan9/DonorHubv1/master/DonorHub%20(6).jpg" alt="Splash Screen" width="100" height="200" /> <img 
 src="https://raw.githubusercontent.com/amnandan9/DonorHubv1/master/DonorHub%20(7).jpg" alt="Splash Screen" width="100" height="200" /> 
@@ -42,6 +42,6 @@ If you would like to contribute to the DonorHub project, you are always welcome!
 If you would like to support this project for better versions and enhancements, you can contribute here.
 
 I appreciate your interest in contributing!<br>
-Regards, 
-*Nandan *
+Regards, <br>
+*Nandan A M*
 
