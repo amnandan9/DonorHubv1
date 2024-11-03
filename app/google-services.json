@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474158201794",
+    "firebase_url": "https://donorhub-6ef07-default-rtdb.firebaseio.com",
+    "project_id": "donorhub-6ef07",
+    "storage_bucket": "donorhub-6ef07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474158201794:android:57dfdb0f458a4a156e745b",
+        "android_client_info": {
+          "package_name": "com.android.iunoob.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474158201794-dr6neu3vjbspeu316s9dqt3ivjnaoclm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeDyLvE7T2yPQeykaCXdibt1XlXdx132U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474158201794-dr6neu3vjbspeu316s9dqt3ivjnaoclm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
