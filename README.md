@@ -19,7 +19,7 @@ DonorHub offers seamless communication between blood donors and recipients throu
   - Firebase Authentication: Version 10.2.0
 - **Google Maps API**: Version 17.0.1
 - **Gradle**: Version 7.2
-- **Java**: Version 11
+- **Java**: Version 11.0
 
 ## How to Install
 You can install this application to test it on your Android smartphone. The download link will be updated shortly.
@@ -43,5 +43,5 @@ If you would like to support this project for better versions and enhancements, 
 
 I appreciate your interest in contributing!<br>
 Regards, 
-*Nandan A M*
+*Nandan *
 
