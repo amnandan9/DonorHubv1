@@ -96,19 +96,36 @@ public class Dashboard extends AppCompatActivity
 
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                //pd.show();
-                String name = dataSnapshot.getValue(UserData.class).getName();
+                if (dataSnapshot.exists()) {
+                    // Safely retrieve the UserData object from the snapshot
+                    UserData userData = dataSnapshot.getValue(UserData.class);
 
-                getUserName.setText(name);
-                getUserEmail.setText(cur_user.getEmail());
+                    if (userData != null) {
+                        // If userData is not null, set the values
+                        String name = userData.getName();
+                        getUserName.setText(name);
+                        getUserEmail.setText(cur_user.getEmail());
+                    } else {
+                        // Handle the case when userData is null
+                        Log.e("User", "UserData is null");
+                        getUserName.setText("Name not available");
+                        getUserEmail.setText("Email not available");
+                    }
+                } else {
+                    // Handle the case when data does not exist
+                    Log.e("User", "No data found for this user");
+                    getUserName.setText("Name not available");
+                    getUserEmail.setText("Email not available");
+                }
 
+                // Dismiss the progress dialog after the operation is complete
                 pd.dismiss();
             }
 
             @Override
             public void onCancelled(@NonNull DatabaseError databaseError) {
                 Log.d("User", databaseError.getMessage());
-
+                pd.dismiss(); // Dismiss progress dialog on error
             }
         });
 

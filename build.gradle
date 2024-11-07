@@ -6,7 +6,7 @@ buildscript {
         mavenCentral() // Use mavenCentral instead of jcenter since it's deprecated
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:7.0.4' // Update to a compatible version
+        classpath 'com.android.tools.build:gradle:7.0.0'// Update to a compatible version
         classpath 'com.google.gms:google-services:4.3.10' // Update to a more recent version
         // Remove the android-apt plugin if not necessary for your project
         // Use kapt instead of android-apt for annotation processing if needed
