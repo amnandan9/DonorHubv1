@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+</resources>
+    <!--
+         Project Name: DonorHub
+         Project Date: 10/08/24
+         Created by: Nandan A M
+         Email: [amnandan9@gmail.com]
+         -->
